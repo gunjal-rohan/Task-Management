@@ -1,5 +1,5 @@
-# To-Do-List
- To Do list using HTML, CSS, Bootstrap, PHP and JQuery.
+# Task Management Website
+ Task Management Website using HTML, CSS, Bootstrap, PHP and JQuery.
  
  to initialise the project make database named to_do in PHPMyAdmin
  
